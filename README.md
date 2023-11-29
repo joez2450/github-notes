@@ -2,7 +2,7 @@
 Git is a piece of software that primarily exists for the version control of your work. Git keeps track of files, and it can also work properly when multiple people are collaborating on the same project. 
 
 #### Github
-Github is a web service that allows people to do things on a server and website. GitHub is mainly used for interactive coding and any individual projects. The web service also has Git behind its software, which allows people to version control their work.
+Github is a web service that allows people to do things on a server and website with an account. GitHub is mainly used for interactive coding and any individual projects. The web service also has Git behind its software, which allows people to version control their work.
 
 #### Repo
 Repo, or repository, is a place in GitHub where all of the files of a project are stored. A repo can be named (with a dash for spaces), set to a certain visibility (public or private), and include a description. There are many features of a repo. In a repo, there is an option to create new files, upload files, name files, and most importantly save changes to a work. 
